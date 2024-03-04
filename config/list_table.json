@@ -1,0 +1,4 @@
+[
+    {"table": "employees", "pk": "employe_id"},
+    {"table": "timesheets", "pk": "timesheet_id"}
+]

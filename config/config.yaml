@@ -1,0 +1,9 @@
+#target database configuration
+database: "salary_per_hour"
+user: "postgres"
+host: "localhost"
+password: ""
+port: 5432
+
+#ingestion process configuration
+chunksize: 1000
